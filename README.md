@@ -187,6 +187,4 @@ This project is licensed under the MIT License.
 
 **Rajanya Saha**
 
-AI & ML Undergraduate | Python Developer | AI Enthusiast
-
-GitHub: https://github.com/RajanyaSaha-27
+AI & ML Undergraduate
