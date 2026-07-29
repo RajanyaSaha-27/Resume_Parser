@@ -1,0 +1,157 @@
+python
+c
+c++
+java
+c#
+javascript
+typescript
+html
+css
+php
+go
+rust
+kotlin
+swift
+r
+matlab
+
+react
+next.js
+vue
+angular
+node.js
+express
+flask
+django
+fastapi
+streamlit
+
+mysql
+postgresql
+mongodb
+sqlite
+redis
+firebase
+supabase
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+opencv
+pillow
+
+tensorflow
+keras
+pytorch
+xgboost
+lightgbm
+catboost
+
+machine learning
+deep learning
+artificial intelligence
+data science
+computer vision
+natural language processing
+nlp
+generative ai
+gen ai
+llm
+large language models
+rag
+retrieval augmented generation
+transformers
+prompt engineering
+fine tuning
+agentic ai
+multi agent
+langchain
+langgraph
+crewai
+autogen
+hugging face
+sentence transformers
+embedding
+vector database
+vectordb
+chromadb
+pinecone
+faiss
+milvus
+qdrant
+
+yolo
+yolov8
+cnn
+rnn
+lstm
+gan
+diffusion models
+bert
+gpt
+llama
+gemini
+mistral
+
+docker
+kubernetes
+git
+github
+gitlab
+linux
+bash
+
+aws
+azure
+gcp
+ec2
+s3
+lambda
+cloud run
+cloud functions
+
+rest api
+graphql
+microservices
+
+sql
+nosql
+
+jupyter
+google colab
+anaconda
+vscode
+pycharm
+
+statistics
+probability
+linear algebra
+calculus
+data analysis
+data visualization
+feature engineering
+model deployment
+mlops
+airflow
+dvc
+
+power bi
+tableau
+excel
+
+twilio
+openai api
+gemini api
+groq
+anthropic
+ollama
+
+signal processing
+time series
+image processing
+object detection
+semantic search
+recommendation systems
